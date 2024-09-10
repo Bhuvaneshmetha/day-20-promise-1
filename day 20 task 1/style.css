@@ -1,0 +1,25 @@
+body{
+    background-image: url(pngtree-fruits-and-vegetables-picture-image_555942.jpg);
+    padding: 50px;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100%;
+}
+tr{
+    border: 2px solid rgb(114, 82, 82);
+    color: rgb(255, 102, 0);
+    font-size: 20px;
+    font-family: "Nerko One", cursive;
+    height: 20px;
+    
+}
+
+h1{
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    font-family:  "Nerko One", cursive;
+}
+p{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
